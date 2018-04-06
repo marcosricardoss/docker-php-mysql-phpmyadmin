@@ -1,6 +1,6 @@
 ## PHP, MySQL and phpMyAdmin
 
-Docker running PHO, MySQL and phpMyAdmin.
+Docker running PHP, MySQL and phpMyAdmin.
 
 ```
 docker-compose build
